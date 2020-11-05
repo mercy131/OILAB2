@@ -1,0 +1,35 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(43,52): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(44,52): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(45,52): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(60,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(84,52): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(85,52): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(86,52): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(123,32): warning C4101: t6: неиспользованная локальная переменная
+C:\Users\user\Desktop\с2\с2\с2\Source.cpp(123,28): warning C4101: t5: неиспользованная локальная переменная
+  с2.vcxproj -> C:\Users\user\Desktop\с2\с2\x64\Debug\с2.exe
